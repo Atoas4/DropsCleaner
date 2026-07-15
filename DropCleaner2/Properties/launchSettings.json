@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DropCleaner2": {
+      "commandName": "Project",
+      "commandLineArgs": "analyze"
+    }
+  }
+}
